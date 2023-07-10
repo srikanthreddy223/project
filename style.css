@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+}
+.animal {
+    border: 2px solid #ff0000; /* Replace #ff0000 with your desired border color */
+    padding: 20px;
+    
